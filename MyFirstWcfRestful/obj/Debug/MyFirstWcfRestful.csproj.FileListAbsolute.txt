@@ -1,0 +1,6 @@
+E:\Tiger\MyFirstWcfRestful\MyFirstWcfRestful\obj\Debug\MyFirstWcfRestful.csprojResolveAssemblyReference.cache
+E:\Tiger\MyFirstWcfRestful\MyFirstWcfRestful\bin\MyFirstWcfRestful.dll.config
+E:\Tiger\MyFirstWcfRestful\MyFirstWcfRestful\bin\MyFirstWcfRestful.dll
+E:\Tiger\MyFirstWcfRestful\MyFirstWcfRestful\bin\MyFirstWcfRestful.pdb
+E:\Tiger\MyFirstWcfRestful\MyFirstWcfRestful\obj\Debug\MyFirstWcfRestful.dll
+E:\Tiger\MyFirstWcfRestful\MyFirstWcfRestful\obj\Debug\MyFirstWcfRestful.pdb
